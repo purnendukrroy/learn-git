@@ -3,4 +3,4 @@ learn-git
 
 Git experiments @ fossmeet '13
 
-Fork this project and sen me pull requests :)
+Fork this project and send me pull requests :)
